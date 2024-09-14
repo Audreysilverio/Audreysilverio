@@ -2,9 +2,9 @@
 - 👀 Curiosa e fascinada por tecnologia;
 - 🌱 Em constante aprendizagem;
 - 💞️ Na busca por respostas;
-- 📫 E-mail: audrey
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 E-mail: audrey_silverio@yahoo.com.br
+- 😄 Pronouns: Ela/Dela
+- ⚡ Fun fact: Muita coisa e ao mesmo tempo nada; Amoo Biologia 
 
 <!---
 Audreysilverio/Audreysilverio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
