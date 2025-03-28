@@ -12,7 +12,7 @@
 
 ## 🛠️ **Tecnologias & Ferramentas**
 <div>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode" />
 </div>
 
 ---
