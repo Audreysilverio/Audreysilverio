@@ -17,13 +17,6 @@
 
 ---
 
-## 🎮 **Mini-Game: Pegue o Dev!**  
-> Um jogo interativo baseado no GitHub! Tente pegar o dev clicando na tela! 🕹️  
-
-[![Jogar agora](https://img.shields.io/badge/%F0%9F%8E%AE-Jogar%20Agora-blue?style=for-the-badge)](https://audreysilverio.github.io/mini-game/)  
-
----
-
 ## 📊 **Minhas Estatísticas**
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Audreysilverio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
