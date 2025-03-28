@@ -11,9 +11,16 @@
 ---
 
 ## 🛠️ **Tecnologias & Ferramentas**
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,python,flask,react,js,html,css,mysql,sqlite3" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,python,flask,react,js,html,css,mysql" />
 </div>
+
+---
+
+## 🎮 **Mini-Game: Pegue o Dev!**  
+> Um jogo interativo baseado no GitHub! Tente pegar o dev clicando na tela! 🕹️  
+
+[![Jogar agora](https://img.shields.io/badge/%F0%9F%8E%AE-Jogar%20Agora-blue?style=for-the-badge)](https://audreysilverio.github.io/mini-game/)  
 
 ---
 
@@ -32,4 +39,10 @@
 
 ---
 
+### 🌀 **Contador de visitas**  
+![Visitantes](https://profile-counter.glitch.me/Audreysilverio/count.svg)
+
+---
+
 🚀 **_"Aprender é uma jornada infinita, e eu estou só começando!"_**  
+
